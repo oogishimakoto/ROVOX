@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Char
+  - PlayerHitObj
+  - Wall
+  - Warp
+  - Core
+  - Back
+  - Enemy
+  - Heal
+  - Signboard
+  - Ground
+  - Jump
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - mori
+  - Player
+  - Enemy
+  - BackGround
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - whatIsGround
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

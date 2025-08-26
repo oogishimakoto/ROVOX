@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Materials/Materials/lockon.mat.meta
+guid: eb7f731213606524cafccbaffc97a775
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 538f7900226df3c4b8d9a3fce6c1abc4
+PrefabImporter:
+  externalObjects: {}
+>>>>>>>> 51d4e7f35966dcf1d517d3244d1010653d9fb850:Assets/prefub/Boss 1 (1).prefab.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

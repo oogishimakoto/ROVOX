@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Object/enemy/animation/Leg.mask.meta
+guid: c877063301dd5d240bb5eda0e538aa86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+========
+guid: a2cc96a51e0820f46bb3abd6f0b2ee99
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> dd2a215 (タイトル、リザルトの画像サイズの調整、ステージセレクトにステージ移動先のシーン名を表示するようにしました。):Assets/Scenes/Result.unity.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

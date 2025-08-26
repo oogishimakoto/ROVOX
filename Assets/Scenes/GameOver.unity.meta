@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Result.unity.meta
+guid: df28961e250f4384a99a8a0531460d98
+========
+guid: f0af2126da7a27f4399d62b8a8c4fae8
+folderAsset: yes
+>>>>>>>> dd2a215 (タイトル、リザルトの画像サイズの調整、ステージセレクトにステージ移動先のシーン名を表示するようにしました。):Assets/Script/UI.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
