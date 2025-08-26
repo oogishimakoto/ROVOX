@@ -1,0 +1,72 @@
+﻿cl : コマンド ライン  warning D9025: '/sdl' より '/GS-' が優先されます。
+  Goal.cpp
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\WindowProja.h(19,23): warning C4091: 'extern ': 変数が何も宣言されていないときは、'VERTEX2D' の左辺を無視します。
+  (ソース ファイル 'Goal.cpp' をコンパイルしています)
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\AnimationSprite.h(18,21): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'Goal.cpp' をコンパイルしています)
+  
+  HitCircle.cpp
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\WindowProja.h(19,23): warning C4091: 'extern ': 変数が何も宣言されていないときは、'VERTEX2D' の左辺を無視します。
+  (ソース ファイル 'HitCircle.cpp' をコンパイルしています)
+  
+  Stage3_2.cpp
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\WindowProja.h(19,23): warning C4091: 'extern ': 変数が何も宣言されていないときは、'VERTEX2D' の左辺を無視します。
+  (ソース ファイル 'Stage3_2.cpp' をコンパイルしています)
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\AnimationSprite.h(18,21): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'Stage3_2.cpp' をコンパイルしています)
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\BaseScene.h(17,1): warning C4005: 'SCREEN_WIDTH': マクロが再定義されました。
+  (ソース ファイル 'Stage3_2.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Operation.h(20,1):
+      'SCREEN_WIDTH' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\BaseScene.h(18,1): warning C4005: 'SCREEN_HEIGHT': マクロが再定義されました。
+  (ソース ファイル 'Stage3_2.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Operation.h(21,1):
+      'SCREEN_HEIGHT' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Stage3_2.h(14,1): warning C4005: 'MAX_GEAR': マクロが再定義されました。
+  (ソース ファイル 'Stage3_2.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\GameScene.h(14,1):
+      'MAX_GEAR' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Stage3_2.cpp(358,41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Stage3_2.cpp(446,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Stage3_2.cpp(446,15): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  winmain.cpp
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\WindowProja.h(19,23): warning C4091: 'extern ': 変数が何も宣言されていないときは、'VERTEX2D' の左辺を無視します。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\AnimationSprite.h(18,21): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\BaseScene.h(17,1): warning C4005: 'SCREEN_WIDTH': マクロが再定義されました。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Operation.h(20,1):
+      'SCREEN_WIDTH' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\BaseScene.h(18,1): warning C4005: 'SCREEN_HEIGHT': マクロが再定義されました。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Operation.h(21,1):
+      'SCREEN_HEIGHT' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Stage1_1.h(14,1): warning C4005: 'MAX_GEAR': マクロが再定義されました。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\GameScene.h(14,1):
+      'MAX_GEAR' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\RetryScene.h(30,1): warning C4005: 'ANIMATIONVALUES': マクロが再定義されました。
+  (ソース ファイル 'winmain.cpp' をコンパイルしています)
+      C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\Dool.h(6,1):
+      'ANIMATIONVALUES' の以前の定義を確認してください
+  
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\winmain.cpp(75,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\winmain.cpp(75,15): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\winmain.cpp(99,17): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\winmain.cpp(135,54): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\20220520Porigon\winmain.cpp(155,18): warning C4244: '=': '__int64' から 'DWORD' への変換です。データが失われる可能性があります。
+  xa2.cpp
+  コードを生成中...
+  20220520Porigon.vcxproj -> C:\Users\hiira\Documents\ゲーム作品\ギアドール\GearDoll\x64\Debug\pHewElegant_ver1.00.exe

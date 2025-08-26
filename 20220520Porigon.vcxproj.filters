@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\システム">
+      <UniqueIdentifier>{82cf68b6-5221-4ca9-b270-8d8eeb5f4880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\描画">
+      <UniqueIdentifier>{d5f4847b-2ba3-46c5-a31f-b56cf3668a19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\描画\アニメーション">
+      <UniqueIdentifier>{84cd2660-a9b1-454f-a47a-f7e54b1e8516}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\オブジェクト">
+      <UniqueIdentifier>{1b8c33b9-ec49-4239-a0dd-61399b33dcff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\システム\当たり判定">
+      <UniqueIdentifier>{ed45d87c-d865-4d91-9360-c954b209ba1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\フェード">
+      <UniqueIdentifier>{8f15aba1-cb73-4a9b-b184-59ef393428a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\シーン">
+      <UniqueIdentifier>{fb7b922e-b3d5-40cf-9b8c-b21bde0990ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\オブジェクト\アクシデント">
+      <UniqueIdentifier>{30ef46c6-2b5c-4192-a142-f75fe5924ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\マップ">
+      <UniqueIdentifier>{611ac5a9-d006-480e-89e8-8e393f5628fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\オブジェクト">
+      <UniqueIdentifier>{de4ee397-690e-476a-854b-b1beddd19062}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\オブジェクト\アクシデント">
+      <UniqueIdentifier>{39f4dde5-6fff-484c-bfca-d5b5f5279d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\描画">
+      <UniqueIdentifier>{fa87cad4-1553-4b6f-9a21-34a49d71b89d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\描画\アニメーション">
+      <UniqueIdentifier>{8404e7f0-3c30-4805-96c4-2e3f01722826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\システム">
+      <UniqueIdentifier>{3377beaf-a0fb-4b21-bf0f-440d5e1af15b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\システム\当たり判定">
+      <UniqueIdentifier>{591426aa-9c19-410d-8941-7f460b02bd41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\フェード">
+      <UniqueIdentifier>{e7186cd2-6590-45d4-898d-26af4b428e6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\シーン">
+      <UniqueIdentifier>{4d50182f-944a-4043-9cec-6f4abe2736fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\マップ">
+      <UniqueIdentifier>{a96385f0-3a8e-48ae-9d04-3a12d6101bf9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AnimationSprite.h">
+      <Filter>ヘッダー ファイル\描画\アニメーション</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimHitObject.h">
+      <Filter>ヘッダー ファイル\描画\アニメーション</Filter>
+    </ClInclude>
+    <ClInclude Include="Dool.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="Gear.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="GearJanereter.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticObject.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="CSprite.h">
+      <Filter>ヘッダー ファイル\描画</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct3d.h">
+      <Filter>ヘッダー ファイル\システム</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダー ファイル\システム</Filter>
+    </ClInclude>
+    <ClInclude Include="WICTextureLoader.h">
+      <Filter>ヘッダー ファイル\システム</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowProja.h">
+      <Filter>ヘッダー ファイル\システム</Filter>
+    </ClInclude>
+    <ClInclude Include="xa2.h">
+      <Filter>ヘッダー ファイル\システム</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>ヘッダー ファイル\フェード</Filter>
+    </ClInclude>
+    <ClInclude Include="DoolManager.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="Operation.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Goal.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="Accident.h">
+      <Filter>ヘッダー ファイル\オブジェクト\アクシデント</Filter>
+    </ClInclude>
+    <ClInclude Include="AStone.h">
+      <Filter>ヘッダー ファイル\オブジェクト\アクシデント</Filter>
+    </ClInclude>
+    <ClInclude Include="MapObject.h">
+      <Filter>ヘッダー ファイル\マップ</Filter>
+    </ClInclude>
+    <ClInclude Include="MaptipFileRead.h">
+      <Filter>ヘッダー ファイル\マップ</Filter>
+    </ClInclude>
+    <ClInclude Include="HitCircle.h">
+      <Filter>ヘッダー ファイル\システム\当たり判定</Filter>
+    </ClInclude>
+    <ClInclude Include="HitSquare.h">
+      <Filter>ヘッダー ファイル\システム\当たり判定</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Key.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateSprite.h">
+      <Filter>ヘッダー ファイル\描画</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateObject.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="HitObject.h">
+      <Filter>ヘッダー ファイル\オブジェクト</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1_1.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1_2.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1_3.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="winmain.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameRateCalculator.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSelectScene2.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSelectScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2_1.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2_2.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2_3.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3_1.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3_2.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3_3.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSelectScene3.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="RetryScene.h">
+      <Filter>ヘッダー ファイル\シーン</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winmain.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationSprite.cpp">
+      <Filter>ソース ファイル\描画\アニメーション</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimHitObject.cpp">
+      <Filter>ソース ファイル\描画\アニメーション</Filter>
+    </ClCompile>
+    <ClCompile Include="Cinput.cpp">
+      <Filter>ソース ファイル\システム</Filter>
+    </ClCompile>
+    <ClCompile Include="CSprite.cpp">
+      <Filter>ソース ファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3d.cpp">
+      <Filter>ソース ファイル\システム</Filter>
+    </ClCompile>
+    <ClCompile Include="Dool.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="Gear.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="GearJanereter.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="HitCircle.cpp">
+      <Filter>ソース ファイル\システム\当たり判定</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticObject.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="WICTextureLoader.cpp">
+      <Filter>ソース ファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="xa2.cpp">
+      <Filter>ソース ファイル\システム</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>ソース ファイル\フェード</Filter>
+    </ClCompile>
+    <ClCompile Include="DoolManager.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="Operation.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Goal.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="Accident.cpp">
+      <Filter>ソース ファイル\オブジェクト\アクシデント</Filter>
+    </ClCompile>
+    <ClCompile Include="AStone.cpp">
+      <Filter>ソース ファイル\オブジェクト\アクシデント</Filter>
+    </ClCompile>
+    <ClCompile Include="MapObject.cpp">
+      <Filter>ソース ファイル\マップ</Filter>
+    </ClCompile>
+    <ClCompile Include="MaptipFileRead.cpp">
+      <Filter>ソース ファイル\マップ</Filter>
+    </ClCompile>
+    <ClCompile Include="HitSquare.cpp">
+      <Filter>ソース ファイル\システム\当たり判定</Filter>
+    </ClCompile>
+    <ClCompile Include="Key.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateObject.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="HitObject.cpp">
+      <Filter>ソース ファイル\オブジェクト</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateSprite.cpp">
+      <Filter>ソース ファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSelectScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1_1.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1_2.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1_3.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSelectScene2.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2_1.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2_2.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2_3.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSelectScene3.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3_1.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3_2.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3_3.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="RetryScene.cpp">
+      <Filter>ソース ファイル\シーン</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ps.hlsl" />
+    <FxCompile Include="vs.hlsl" />
+  </ItemGroup>
+</Project>
